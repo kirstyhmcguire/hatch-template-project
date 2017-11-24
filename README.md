@@ -24,8 +24,8 @@ From now on it is in your **Forked** repo
 
 ### README changes (this file)
 
-- [x] 5. Change the name at the top of this file on `line 1`
-- [x] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
+- [ ] 5. Change the name at the top of this file on `line 1`
+- [ ] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
 - [ ] 7. Fill in your team members in the **TEAM** section below
 - [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
 - [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
