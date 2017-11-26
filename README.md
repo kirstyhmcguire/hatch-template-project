@@ -40,7 +40,7 @@ Include all members of your team for the hack here:
 * Kirsty McGuire [github](https://github.com/kirstyhmcguire)
 * Pear Poolvaraluk [github](https://github.com/pearviracha)
 * Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
+* Kamile Gaurilcikaite [github](https://github.com/kamileg94)
 
 ## Problem and Solution
 
