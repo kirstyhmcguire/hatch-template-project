@@ -28,7 +28,7 @@ From now on it is in your **Forked** repo
 - [x] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
 - [x] 7. Fill in your team members in the **TEAM** section below
 - [x] 8. Fill in the **PROBLEM AND SOLUTION** section below
-- [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
+- [x] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
 - [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
