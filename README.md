@@ -44,7 +44,7 @@ Include all members of your team for the hack here:
 
 ## Problem and Solution
 
-Mental health and wellbeing, problem and solution tbc
+In order to help people whose health is impacted by allergies, our project enables them to view the allergens in a product by scanning the barcode as they shop.
 
 ## Install and run this project
 
