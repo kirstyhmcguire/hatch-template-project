@@ -48,4 +48,4 @@ In order to help people whose health is impacted by allergies, our project enabl
 
 ## Install and run this project
 
-[Allerby web app](https://kirstyhmcguire.github.io/AllergyApp.html)
+[Allerbye web app](https://kirstyhmcguire.github.io/AllergyApp.html)
