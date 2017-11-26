@@ -48,5 +48,5 @@ In order to help people whose health is impacted by allergies, our project enabl
 
 ## Install and run this project
 
-[Allerbye web app](https://kirstyhmcguire.github.io/AllergyApp.html)
-[Invision wireframe](https://invis.io/p/2M1VGXGPWHUR)
+* [Allerbye web app](https://kirstyhmcguire.github.io/Allerbye.html)
+* [Invision wireframe](https://invis.io/p/2M1VGXGPWHUR)
