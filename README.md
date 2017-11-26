@@ -38,7 +38,7 @@ From now on it is in your **Forked** repo
 Include all members of your team for the hack here:
 
 * Kirsty McGuire [github](https://github.com/kirstyhmcguire)
-* Full Name [github](link to github profile)
+* Pear Poolvaraluk [github](https://github.com/pearviracha)
 * Full Name [github](link to github profile)
 * Full Name [github](link to github profile)
 
