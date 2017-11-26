@@ -1,6 +1,6 @@
-# Team 19 Project
+# Allerbye
 
-Project tbc
+An app to make life easier for people with allergies by enabling them to view the allergens in a product by just scanning the barcode as they shop.
 
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
@@ -16,7 +16,7 @@ Tick items off as you go along.
 
 From now on it is in your **Forked** repo
 
-- [ ] 4. At the top of your **repo** add a brief project description & link to where it is hosted.
+- [x] 4. At the top of your **repo** add a brief project description & link to where it is hosted.
 
 ![Repo description and link](https://user-images.githubusercontent.com/624760/33160443-57e86a96-d014-11e7-8488-52592fc69a81.png)
 
@@ -24,9 +24,9 @@ From now on it is in your **Forked** repo
 
 ### README changes (this file)
 
-- [ ] 5. Change the name at the top of this file on `line 1`
-- [ ] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
-- [ ] 7. Fill in your team members in the **TEAM** section below
+- [x] 5. Change the name at the top of this file on `line 1`
+- [x] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
+- [x] 7. Fill in your team members in the **TEAM** section below
 - [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
 - [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
 - [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
@@ -48,4 +48,4 @@ Mental health and wellbeing, problem and solution tbc
 
 ## Install and run this project
 
-Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub users who might be interested. The jury will take a look at what is in this repository during deliberations.
+[github](kirstyhmcguire.github.io)
